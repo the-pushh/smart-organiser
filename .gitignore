@@ -1,0 +1,11 @@
+.build/
+dist/
+.DS_Store
+.env
+.env.*
+*.xcuserstate
+!.env.example
+
+demos/*.mov
+demos/*.mp4
+demos/raw/
